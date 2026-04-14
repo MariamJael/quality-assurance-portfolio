@@ -16,5 +16,5 @@ I have worked with financial workflows including accounting, reporting, cash man
 - [Financial Test Cases](manual-testing/test-cases-financial.md)
 - [Bug Report](bug-reports/bug-report.md)
 - [Test Strategy](test-strategy/qa-strategy.md)
-- [Regression Checklist]()
+- [Regression Checklist](regression/regression-checklist.md)
 - [Automation Sample](automation/login-test.py)
