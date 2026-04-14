@@ -14,7 +14,6 @@ I have worked with financial workflows including accounting, reporting, cash man
 ## Portfolio Contents
 - [Login Test Cases](manual-testing/test-cases-login.md)
 - [Financial Test Cases](manual-testing/test-cases-financial.md)
-- Bug Reports: ./bug-reports/
-- Test Strategy: ./test-strategy/
-- Regression Checklist: ./regression/
-- Automation Sample: ./automation/
+- [Bug Report](bug-reports/bug-report.md)
+- [Test Strategy](test-strategy/qa-strategy.md)
+- [Automation Sample](automation/login-test.py)
