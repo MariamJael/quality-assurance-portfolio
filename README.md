@@ -9,7 +9,7 @@ I have worked with financial workflows including accounting, reporting, cash man
 - Defect Tracking & Bug Reproduction
 - Agile / Scrum Collaboration
 - Financial Systems Validation
-- Basic Test Automation (Playwright)
+- Test Automation
 
 ## Portfolio Contents
 - [Login Test Cases](manual-testing/test-cases-login.md)
