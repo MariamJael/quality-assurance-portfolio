@@ -12,7 +12,7 @@ I have worked with financial workflows including accounting, reporting, cash man
 - Basic Test Automation (Playwright)
 
 ## Portfolio Contents
-- Manual Test Cases: manual-testing/test-cases-login.md
+- [Manual Test Cases](manual-testing/test-cases-login.md)
 - Bug Reports: ./bug-reports/
 - Test Strategy: ./test-strategy/
 - Regression Checklist: ./regression/
